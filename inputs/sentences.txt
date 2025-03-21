@@ -1,0 +1,16 @@
+Frases Neutras
+"Hoje o dia está ensolarado."
+"Eu gosto de aprender novas habilidades."
+"O café está quente e saboroso."
+Frases Positivas
+"Estou muito feliz com o meu progresso!"
+"Esse foi um dos melhores dias da minha vida!"
+"Adoro trabalhar em equipe e aprender com os outros."
+Frases Negativas
+"Hoje foi um dia difícil e cansativo."
+"Não gostei do resultado do meu projeto."
+"Estou frustrado com essa situação."
+Frases Ambíguas
+"Interessante o que aconteceu hoje."
+"Acho que isso pode ser bom ou ruim, depende do ponto de vista."
+"Foi uma experiência diferente, com altos e baixos."
